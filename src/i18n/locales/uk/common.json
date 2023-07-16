@@ -1,0 +1,4 @@
+{
+  "intlDateTime": "{{value, datetime}}",
+  "intlNumber": "{{value, number}}"
+}
